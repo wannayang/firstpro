@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Mix-YGCX"
+  id="myeclipse.1498033862024"
+  context-root="/YGCX"
+  j2ee-spec="1.7"
+  archive="Mix-YGCX.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
